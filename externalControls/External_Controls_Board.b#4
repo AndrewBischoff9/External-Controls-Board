@@ -1816,7 +1816,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="COLOR1" value="YELLOW" x="27.3558" y="13.8176" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U$5" library="MRDT-Hardware" package="#8_SCREW" value="MOUNTING_HOLE#8" x="95.4024" y="21.5646"/>
-<element name="U$6" library="MRDT-Hardware" package="#8_SCREW" value="MOUNTING_HOLE#8" x="82.6516" y="52.1462"/>
+<element name="U$6" library="MRDT-Hardware" package="#8_SCREW" value="MOUNTING_HOLE#8" x="82.5246" y="52.0192"/>
 <element name="U$1" library="logicShifter" package="DIP16" value="74AHCT125" x="100.584" y="32.766" rot="R180"/>
 <element name="U$8" library="logicShifter" package="MOLEX7PIN" value="MOLEX7-PIN" x="113.538" y="47.498" rot="R270">
 <attribute name="TEST" value="1" x="113.538" y="47.498" size="1.778" layer="27" rot="R270" display="off"/>

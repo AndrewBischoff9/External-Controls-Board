@@ -1862,8 +1862,8 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="U$2" pad="PC4"/>
 <contactref element="U$2" pad="PC5"/>
 <contactref element="U$8" pad="3"/>
-<wire x1="119.6594" y1="35.2806" x2="116.84" y2="37.846" width="0.4064" layer="1"/>
-<wire x1="116.84" y1="37.846" x2="116.84" y2="53.594" width="0.4064" layer="1"/>
+<wire x1="119.6594" y1="35.2806" x2="116.84" y2="38.1" width="0.4064" layer="1"/>
+<wire x1="116.84" y1="38.1" x2="116.84" y2="53.594" width="0.4064" layer="1"/>
 <wire x1="116.84" y1="53.594" x2="115.824" y2="54.61" width="0.4064" layer="1"/>
 <wire x1="115.824" y1="54.61" x2="115.57" y2="54.61" width="0.4064" layer="1"/>
 <wire x1="116.84" y1="53.594" x2="117.856" y2="54.61" width="0.4064" layer="1"/>

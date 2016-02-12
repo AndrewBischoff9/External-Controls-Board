@@ -805,8 +805,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="U$1" gate="G$1" pin="OUT"/>
 <wire x1="167.64" y1="332.74" x2="182.88" y2="332.74" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="332.74" x2="182.88" y2="335.28" width="0.1524" layer="91"/>
-<label x="182.88" y="335.28" size="1.016" layer="95" xref="yes"/>
+<label x="182.88" y="332.74" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CAM_VIDEO_GND" class="0">

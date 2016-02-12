@@ -1841,8 +1841,8 @@ Please make sure your boards conform to these design rules.</description>
 <vertex x="124.46" y="55.88"/>
 <vertex x="35.56" y="55.88"/>
 </polygon>
-<wire x1="119.6594" y1="41.275" x2="119.888" y2="51.308" width="0.4064" layer="1"/>
-<wire x1="119.888" y1="51.308" x2="120.65" y2="52.07" width="0.4064" layer="1"/>
+<wire x1="119.6594" y1="41.275" x2="119.634" y2="51.054" width="0.4064" layer="1"/>
+<wire x1="119.634" y1="51.054" x2="120.65" y2="52.07" width="0.4064" layer="1"/>
 </signal>
 <signal name="+12V">
 <contactref element="U$3" pad="12V"/>
